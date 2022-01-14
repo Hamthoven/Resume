@@ -2,6 +2,12 @@
 
 ![](https://github.com/Hamthoven/Resume/blob/main/images/BannerEnglish.png)
 
+## Contact
+  
+<!-- ![](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg | width=100)-->
+  
+  hamthoven@gmail.com
+  
 ## Skills
   
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white">
