@@ -1,13 +1,24 @@
   <div align="center">
 
-# Resume
+![](https://github.com/Hamthoven/Resume/blob/main/images/BannerEnglish.png)
 
 ## Skills
   
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white">
+<img alt="iOS" src ="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=ios&logoColor=white">
+<img alt="Xcode" src ="https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white">
+<img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github">
+<img alt="Canva" src ="https://img.shields.io/badge/Canva-00C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">  
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white">  
+<img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio">
+<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode">
+  
+<!-- 
+  
 ### Languages
-
+  
 #### ⭐⭐⭐⭐⭐
-<!--C++, Swift, Python-->
+
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"> <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white">
 <img alt="Python" src ="https://img.shields.io/badge/Python-007ACC.svg?&style=for-the-badge&logo=python&logoColor=white">
 <img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white">
@@ -19,7 +30,7 @@
 ### Tools
 
 #### ⭐⭐⭐⭐⭐
-<!-- Visual Studio, Visual Studio Code, Xcode, Android Studio, Github, Insomnia, Alamofire, Cocoapods -->
+
 <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio"> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode">
 <img alt="Xcode" src ="https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white">
 <img alt="Android Studio" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white">
@@ -30,7 +41,7 @@
 <img alt="Jupyter Notebook" src ="https://img.shields.io/badge/Jupyter Notebook-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white">
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white">
 
-<!--Canva, Davinchi Resolve, -->
+
 <img alt="Canva" src ="https://img.shields.io/badge/Canva-00C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> <img alt="Davinchi Resolve" src ="https://img.shields.io/badge/Davinchi Resolve-333333.svg?&style=for-the-badge">
 <img alt="OneNote" src ="https://img.shields.io/badge/OneNote-7719AA.svg?&style=for-the-badge&logo=microsoftonenote&logoColor=white">
 <img alt="PowerPoint" src ="https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
@@ -50,10 +61,25 @@
 <img alt="Filezilla" src ="https://img.shields.io/badge/Filezilla-BF0000.svg?&style=for-the-badge&logo=filezilla&logoColor=white"> <img alt="Illustrator" src ="https://img.shields.io/badge/Adobe Ai-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white">
 <img alt="Xd" src ="https://img.shields.io/badge/Adobe Xd-FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white">
   
-## Projects
+-->
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SWU-GURU2-TEAM2&repo=MUSICLOG&theme=gruvbox)](https://github.com/SWU-GURU2-TEAM2/MUSICLOG)
+## Projects
 
-
+  <table>
+  <tr><td>
+    
+  [![MUSICLOG](https://github-readme-stats.vercel.app/api/pin/?username=SWU-GURU2-TEAM2&repo=MUSICLOG&theme=gruvbox_light)](https://github.com/SWU-GURU2-TEAM2/MUSICLOG)
+    </td>
+    <td>
+      <p align="center">
+      <strong> MUSICLOG </strong>   
+      iOS 애플리케이션 (2020) 
+      </p>
+      <li /> Swift 프론드 엔드 작성
+      <li /> Firebase 연결 및 Google 소셜 로그인 연결 
+      <li /> 
+    </td>
+    </tr>
+  </table>
 
   </div>
