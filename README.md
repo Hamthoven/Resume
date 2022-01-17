@@ -1,12 +1,11 @@
   <div align="center">
 
 ![](https://github.com/Hamthoven/Resume/blob/main/images/BannerEnglish.png)
-
-## Contact
   
 <!-- ![](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg | width=100)-->
   
-  hamthoven@gmail.com
+  - e-mail:  hamthoven@gmail.com
+  - education: B.S. in Software Engineering 2019~2023 (Expected, Seoul Women's University)
   
 ## Skills
   
@@ -81,11 +80,27 @@
       <strong> MUSICLOG </strong>   
       iOS 애플리케이션 (2020) 
       </p>
-      <li /> Swift 프론드 엔드 작성
+      <li /> Swift 프론드 엔드 구현
       <li /> Firebase 연결 및 Google 소셜 로그인 연결 
-      <li /> 
+      <li /> Storyboard 형태 개발
+      <li /> Github 협업
+    </td>
+    </tr><tr>
+      <td>
+        
     </td>
     </tr>
   </table>
 
+  
+## Languages
+  
+  - Korean(fluent)
+  - English
+  
+## Hobby and Interests
+  
+  - Basic coding education for non-major people
+  - Helping people (Community voluntary service for 3 semester)
+  
   </div>
