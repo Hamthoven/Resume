@@ -6,7 +6,7 @@
   
   - e-mail:  hamthoven@gmail.com
   - education: B.S. in Software Engineering 2019~2023 (Expected, Seoul Women's University)
-  - website: hamthoven.github.io
+  - website: [hamthoven.github.io](hamthoven.github.io)
   
 ## Skills
   
