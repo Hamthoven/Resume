@@ -6,7 +6,7 @@
   
   - e-mail:  hamthoven@gmail.com
   - education: B.S. in Software Engineering 2019~2023 (Expected, Seoul Women's University)
-  - website: [hamthoven.github.io](hamthoven.github.io)
+  - website: [hamthoven.github.io](https://hamthoven.github.io)
   
 ## Skills
   
@@ -79,7 +79,7 @@
     <td>
       <p align="center">
       <strong> MUSICLOG </strong>   
-      iOS 애플리케이션 (2020) 
+      iOS 애플리케이션 (2022) 
       </p>
       <li /> Swift 프론드 엔드 구현
       <li /> Firebase 연결 및 Google 소셜 로그인 연결 
@@ -88,7 +88,13 @@
     </td>
     </tr><tr>
       <td>
-        
+        [![MUSICLOG](https://github-readme-stats.vercel.app/api/pin/?username=Hamthoven&repo=WhiteSystemInfo&theme=gruvbox_light)](https://github.com/Hamthoven/WhiteSystemInfo)
+    </td>
+    <td>
+      <p align="center">
+      <strong> WSI Skin </strong>   
+      레인미터 스킨 (2021) 
+      </p>
     </td>
     </tr>
   </table>
