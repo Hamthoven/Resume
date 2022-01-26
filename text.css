@@ -1,3 +1,73 @@
+/*
+OpenSource CSS Information What I Used
+class:   source name    |   creator     | link
+.title: Cool hover effect | Temani Afif | https://codepen.io/t_afif/pen/GROKmZY
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Gugi&display=swap');
+
+/*
+font-family: 'Gowun Dodum', sans-serif;
+font-family: 'Gugi', cursive;
+*/
+
 .title{
     text-align: center;
+    font-size: 4em;
+    padding: 0 0.7em;
+    font-family: "Gugi";
+}
+
+.title{
+    --c: #F9CC45;
+    line-height: 1.2em;
+    background: 
+      conic-gradient(from -135deg at 100%  50%,#fff  90deg,#0000 0) 0    var(--p,0%),
+      conic-gradient(from -135deg at 1.2em 50%,#0000 90deg,#fff  0) 100% var(--p,0%),
+      var(--c);
+    -webkit-background-clip: text;
+            background-clip: text;
+    background-size: var(--s, 0%) 200%;
+    background-repeat: no-repeat;
+    color: transparent;
+    position: relative;
+    transition: .4s ease-in, background-position 0s;
+  }
+  .title:before {
+    content:"";
+    position:absolute;
+    inset:0;
+    z-index:-1;
+    background: 
+      conic-gradient(from -135deg at 100%  50%,var(--c) 90deg,#0000 0) 0    var(--p,0%),
+      conic-gradient(from -135deg at 1.2em 50%,#0000 90deg,var(--c) 0) 100% var(--p,0%);
+    background-size: inherit;
+    background-repeat: no-repeat;
+  }
+  .title:hover {
+    --p: 100%;
+     /* it should be .6em (1.2em/2) but we use a litte bigger to avoid gaps */
+    --s: calc(50% + .61em);
+  }
+  
+  
+p{
+    font-size: 1.2em;
+    font-family: "Gowun Dodum";
+    text-align: justify;
+    word-break: keep-all;
+}
+
+p.contact{
+    background-color: #363636;
+    color: #fff;
+    padding-left: 2em;
+}
+
+a {
+    color: #F9CC45;
+    text-decoration: none;
+    background-color: #363636;
 }
