@@ -17,12 +17,18 @@ dark: #363636
 body{
     background-color: #FCFCFC;
     color: #363636;
+    align-content: center;
 }
 
 section{
   padding-left: 10%;
   padding-right: 10%;
-  max-width: 1200px;
+  max-width: 840px;
+  margin: auto;
+}
+
+div.link{
+  text-align: center;
 }
 
 ::-moz-selection { /* Code for Firefox */
@@ -44,7 +50,7 @@ section{
   border-color: #363636;
 }
 
-
+/* link buttons */
 
 button {
   position: relative;
@@ -128,3 +134,5 @@ button:hover .circle .icon.arrow {
 button:hover .button-text {
   color: #fff;
 }
+
+/* cards */
