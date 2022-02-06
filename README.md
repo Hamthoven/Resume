@@ -21,12 +21,19 @@
 <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio">
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode">
   
-
+##
+  <br />
+  
+# [웹 이력서(멋진 인트로!) 바로가기](https://hamthoven.github.io/Resume)
+  
+# [실적 자료집(Portfolio) 바로가기](https://github.com/Hamthoven/Resume/blob/main/%E1%84%89%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%A8%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B5%E1%86%B8_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%B5%E1%86%AB.pdf)
+  
+  <br />
+  
 ## Projects
 
   [![MUSICLOG](https://github-readme-stats.vercel.app/api/pin/?username=SWU-GURU2-TEAM2&repo=MUSICLOG&theme=gruvbox_light)](https://github.com/SWU-GURU2-TEAM2/MUSICLOG)
   
-  ### 포트폴리오 바로가기
 ▶︎ Swift 프론드 엔드 구현  
 ▶︎ Firebase 연결 및 Google 소셜 로그인 연결    
 ▶︎ Storyboard 형태 개발  
