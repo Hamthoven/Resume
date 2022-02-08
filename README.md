@@ -26,7 +26,7 @@
   
 # [웹 이력서(멋진 인트로!) 바로가기](https://hamthoven.github.io/Resume)
   
-# [실적 자료집(Portfolio) 바로가기](https://github.com/Hamthoven/Resume/blob/main/%E1%84%89%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%A8%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B5%E1%86%B8_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%B5%E1%86%AB.pdf)
+# [실적 자료집(Portfolio) 바로가기](https://www.canva.com/design/DAE3duNLHXs/z21kkacwF4tktVVnFCH_0Q/view?website#2)
   
   <br />
   
